@@ -16,10 +16,15 @@ The project is set to demonstrate a comprehensive and simple approach by buildin
 Developed a modern Data Warehouse using SQL Server to consolidate sales data, enabling decision-making by stakeholders and analytical reports.
 
 ### Specifications.
+
 **Data Sources** : Import data from two source systems (ERM and CRM) provided as CSV files.
+
 **Data quality**: Clean and resolve data quality  issues prior to analysis.
+
 **Integrations**: Combine both sources into a single user-friendly  data model design for analytical queries.
+
 **Scope**: Focus on the data set only; historization of data is not needed.
+
 **Documentation**: Provide a clear documentation of the data model to support both the Business stakeholder and the analytics teams.
 
 —--
@@ -27,8 +32,11 @@ Developed a modern Data Warehouse using SQL Server to consolidate sales data, en
 
 ##### Objectives
 Develop SQL-based Analytics based on:
+
 **Product Performance**
+
 **Customer Behaviour**
+
 **Sales Trending**
 
 This will enhance the stakeholders with key Business performance metrics, enabling strategic decision making.
