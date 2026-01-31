@@ -1,4 +1,5 @@
-Data Dictionary for Gold Layer
+Data Dictionary for Gold Layer:
+
 The Gold layer represent the business level main to support analytical and report use cases. Wchich consist of Dimension Tables and Fact Tables
 
 | Column Name      | Data Type      | Description                                                                 |
